@@ -1,0 +1,28 @@
+header {
+        height: 100vh;
+        /* width: 100%; */
+        background-image: url(../assets/images/bg-masthead.jpg);
+        background-position: center;
+        background-size: cover;
+}
+
+nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+
+#nav-items {
+    display: flex;
+    gap: 20px;
+}
+
+.nav-list {
+    list-style-type: none;
+}
+
+nav a {
+    text-decoration: none;
+}
