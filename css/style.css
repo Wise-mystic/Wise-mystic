@@ -4,6 +4,7 @@ header {
     background-image: url(../assets/images/bg-masthead.jpg);
     background-position: center;
     background-size: cover;
+    background-attachment: fixed;
 }
 
 nav {
@@ -13,7 +14,7 @@ nav {
     align-items: center;
     padding: 20px;
     height: 0.7in;
-    background-color: #1B1B1B; 
+    background-color: #1B1B1B;
     /* position: fixed; */
     /* width: 100%;
     margin-top: 0;
@@ -37,7 +38,7 @@ nav a {
     width: 50%;
     margin-left: 1in;
     margin-top: 1in;
-    
+
 }
 
 .hero h2 {
@@ -53,10 +54,11 @@ nav a {
 }
 
 .but1 {
-   display: flex;
-   flex-direction: row;
-   gap: 15mm;
+    display: flex;
+    flex-direction: row;
+    gap: 15mm;
 }
+
 .but1 button {
     width: 1.5in;
     height: 30px;
@@ -76,7 +78,7 @@ nav a {
     border-radius: 20mm;
     padding: 10px;
     /* border-inline-color: yellow; */
-   }
+}
 
 .hero-call h3 {
     color: #551A8B;
@@ -88,9 +90,96 @@ nav a {
     grid-template-rows: 1fr;
     grid-column-gap: 20px;
     grid-row-gap: 0px;
+    background-color: #551A9A;
 }
 
 .ab-img {
     height: 100vh;
     width: 50%;
+    margin-left: 10px;
+    padding: 20px;
 }
+
+.about button {
+    width: 1.7in;
+    height: 30px;
+    border-radius: 20mm;
+    /* padding: 10px; */
+    background-color: white;
+    /* border: 3px solid black; */
+    color: #2b2b01;
+}
+
+.skill {
+    /* background-color: yellow; */
+    align-items: center;
+    height: 100vh;
+    background-image: url(../assets/images/bg-masthead.jpg);
+}
+
+.skill h1 {
+    text-align: center;
+
+}
+
+.skills {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: 1fr;
+    grid-column-gap: 20px;
+    grid-row-gap: 0px;
+
+}
+
+.services {
+    /* display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: 1fr;
+    grid-column-gap: 20px;
+    grid-row-gap: 0px; */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    height: 100vh;
+    width: 100%;
+    background-color: #D2C7C7;
+    padding: 10px;
+}
+
+.list-of-services {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+    background-color: #E3E7EA;
+    height: 100vh;
+    width: 70%;
+}
+
+.service1 {
+    background-color: #551A9A;
+    height: 40vh;
+}
+
+.service2 {
+    /* background-color: yellow; */
+    height: 40vh;
+}
+.service3 {
+    /* background-color: yellow; */
+    height: 60vh;
+}
+
+.service4 {
+    background-color: #551A9A;
+    height: 60vh;
+}
+
+.serve {
+    color: white;
+    text-align: center;
+    margin-left: 1in;
+}
+
