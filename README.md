@@ -1,4 +1,9 @@
-# Hi there! 👋 I'm Wisdom Kwawuvi
+#                                                                                
+
+  
+  
+  
+   Hi there! 👋 I'm Wisdom Kwawuvi
 
 <div align="center">
 
@@ -13,12 +18,12 @@ I'm a **Ghanaian tech enthusiast** with a unique blend of **Automobile Engineeri
 🎯 **What makes me different?** My engineering background gives me a systematic, problem-solving approach to backend development, with strong analytical skills and attention to detail.
 
 ### 🛠️ **Core Skill Set:**
-**Backend Development:** Node.js, Express.js, MongoDB | **Frontend Learning:** Angular, HTML, CSS, JavaScript | **Mobile App Development:** Flutter (Dart) | **Engineering & Analysis:** MATLAB, SOLIDWORKS, Vehicle Diagnostics | **Problem-Solving:** Systematic engineering approach to software development
+**Backend Development:** Node.js, Express.js, MongoDB | **Frontend (Beginner):** Angular, React, Next.js, HTML, CSS, JavaScript | **Mobile App Development (Beginner):** Flutter (Dart) | **Engineering & Analysis:** MATLAB, SOLIDWORKS, Vehicle Diagnostics | **Problem-Solving:** Systematic engineering approach to software development
 
 ### 🌟 Current Focus
 - 💼 **Available for backend projects & learning opportunities**
 - 🔭 Building server-side solutions with **Node.js, Express.js, MongoDB & JavaScript**
-- 🌱 **Learning Angular frontend development** and **mobile app development with Flutter/Dart**
+- 🌱 **Beginner in Angular, React, Next.js frontend development** and **mobile app development with Flutter/Dart**
 - 🧮 **MATLAB experience** for engineering calculations and data analysis
 - 🎓 Mentoring students in **Mathematics, Physics & Programming basics**
 
@@ -32,6 +37,8 @@ I'm a **Ghanaian tech enthusiast** with a unique blend of **Automobile Engineeri
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
 
 ### 🌐 Backend Technologies
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -39,15 +46,16 @@ I'm a **Ghanaian tech enthusiast** with a unique blend of **Automobile Engineeri
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 
-### 🌐 Frontend Technologies
+### 🌐 Frontend Technologies (Beginner)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
-### 📱 Mobile App Development
+### 📱 Mobile App Development (Beginner)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ### 🔧 Engineering & Tools
 ![MATLAB](https://img.shields.io/badge/MATLAB-FF8C00?style=for-the-badge&logo=mathworks&logoColor=white)
@@ -73,13 +81,13 @@ I'm a **Ghanaian tech enthusiast** with a unique blend of **Automobile Engineeri
 - RESTful API development & integration
 - Server-side logic implementation
 - Payment gateway integrations
-- TypeScript (Learning/Growing)
+- TypeScript (Beginner)
 
-### 🌐 **Full-Stack Development** (Growing)
-- **MERN/MEAN stack components** (Node.js, Express, MongoDB, Angular)
+### 🌐 **Full-Stack Development** (Beginner)
+- **MERN/MEAN stack components** (Node.js, Express, MongoDB, Angular, React, Next.js)
 - **JavaScript web applications** (Experienced)
 - Backend web development
-- **Angular frontend development** (Learning)
+- **Angular, React, Next.js frontend development** (Beginner)
 - WordPress development
 - Simple responsive layouts
 
@@ -116,10 +124,10 @@ I'm a **Ghanaian tech enthusiast** with a unique blend of **Automobile Engineeri
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|---------|
 | 📋 **Attendance Tracker** | Node.js backend system for attendance management | **Node.js, Express.js, MongoDB** | ✅ Completed |
-| 🏦 **Fintech Backend** | Learning server-side fintech solutions | Ruby on Rails, Go (Learning) | 🚧 In Progress |
+| 🏦 **Fintech Backend** | Learning server-side fintech solutions | Ruby on Rails, Go (Beginner) | 🚧 In Progress |
 | 🔗 **RESTful API Project** | Full CRUD API with authentication | **Node.js, Express.js, MongoDB** | 🚧 In Progress |
 | 📱 **Mobile Learning App** | Simple Flutter app for learning | Flutter, Dart (Beginner) | 🚧 Learning |
-| 🅰️ **Angular Frontend** | Learning modern frontend development | Angular, TypeScript (Learning) | 🚧 Learning |
+| 🅰️ **Angular/React/Next.js Frontend** | Learning modern frontend development | Angular, React, Next.js, TypeScript (Beginner) | 🚧 Learning |
 | 🌐 **Business Websites** | WordPress sites with custom features | WordPress, HTML, CSS | ✅ Completed |
 | ♻️ **Engineering Analysis** | MATLAB calculations & design project | MATLAB, SOLIDWORKS | ✅ Completed |
 
@@ -176,7 +184,7 @@ I'm a **Ghanaian tech enthusiast** with a unique blend of **Automobile Engineeri
 
 ### 🚀 **Available for Backend Projects & Learning Opportunities**
 
-**Specializing in:** Node.js + Express.js + MongoDB | Angular Frontend | RESTful APIs | Flutter Mobile Apps | MATLAB Programming
+**Specializing in:** Node.js + Express.js + MongoDB | Angular, React & Next.js Frontend (Beginner) | RESTful APIs | Flutter Mobile Apps (Beginner) | MATLAB Programming
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wisdomkwawuvi)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wisdomkwawuvi23@gmail.com)
